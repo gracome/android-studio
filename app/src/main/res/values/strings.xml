@@ -9,4 +9,27 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="Zero">0</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="For">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+
+    <string name="Clear">AC</string>
+    <string name="PlusMine">+/_</string>
+    <string name="Percentage">%</string>
+    <string name="Divide">÷</string>
+    <string name="Multiplication">×</string>
+    <string name="Subtract">-</string>
+    <string name="add">+</string>
+    <string name="Equal">=</string>
+    <string name="Point">.</string>
+    <string name="Display">Enter a value</string>
+
 </resources>
